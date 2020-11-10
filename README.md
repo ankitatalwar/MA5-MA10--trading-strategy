@@ -1,0 +1,1 @@
+# MA5-MA10--trading-strategy
